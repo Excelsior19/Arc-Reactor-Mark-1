@@ -10,8 +10,6 @@
          wmode="transparent" width="425" height="350" />
 </object>
 
-</object>
-
 A simple recreation of the Arc Reactor completely self designed and manufactured for under 300 Indian Rupees(2.5 GBP). 
 The model of the Art Reactor was designed in 3 different parts in Autodesk Fusion. 
 The top part of the arc reactor which contains the glowing translucent ring is made up of a 3d printed base with a wall on the inside on which a white led strip is present. The translucent ring itself is formed by a hot glue gun's glue stick, which was placed in warm water, deformed to meet the shape and then joined in a ring shape with a pin. The pin was hidden by the copper wire segments on top of the ring.
