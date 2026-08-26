@@ -3,9 +3,7 @@
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/182a70c0-025e-4abe-8739-df45708cadf8" />
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/73d3a3cf-bd68-42a1-bf30-27c74d3f4723" />
 
-
-https://github.com/user-attachments/assets/0c6c3a6a-f33d-4806-80e7-1551e8d025c5
-
+https://github.com/user-attachments/assets/78bbb92b-68b2-4e71-9d68-b042a2d854e5
 
 
 A simple recreation of the Arc Reactor completely self designed and manufactured for under 300 Indian Rupees(2.5 GBP). 
